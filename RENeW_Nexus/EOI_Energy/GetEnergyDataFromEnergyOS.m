@@ -4,9 +4,9 @@ close all
 clc
 
 %% Credentials
-Username = 'roberta.fornarelli@curtin.edu.au';
-Password = 'Salsiccia01';
-APIKey = 'e5eab7c1c1828d4cec4c398ed260421f';
+Username = '';
+Password = '';
+APIKey = '';
 
 %% Get list of sites
 api = 'https://renewnexus.energyos.com.au/habi-ws-renewnexus/api/v1/site';
